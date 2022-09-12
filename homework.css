@@ -10,3 +10,18 @@ nav {
   border-radius: 4px;
   box-shadow: 0.5px 1px 0.5px grey;
 }
+h1,
+h2,
+{
+  font-family: 'PT Sans', sans-serif;
+  color: brown;
+}
+h1,
+h2 {
+  text-align: center;
+}
+h2 {
+  color: #ef102e;
+  font-size: larger;
+  text-shadow: 0.5px 1px 0.5px grey;
+}
