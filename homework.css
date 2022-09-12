@@ -15,11 +15,9 @@ h2,
 {
   font-family: 'PT Sans', sans-serif;
   color: brown;
-}
-h1,
-h2 {
   text-align: center;
 }
+
 h2 {
   color: #ef102e;
   font-size: larger;
