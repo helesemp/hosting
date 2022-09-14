@@ -4,8 +4,8 @@ body {
   margin-left: 40px;
 }
 
-.button1 {
-  background-color: #4CAF50; /* Green */
+.button {
+  background-color: #4CAF50;
   border: none;
   color: white;
   padding: 15px 32px;
@@ -13,30 +13,19 @@ body {
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
 }
 
-.button2 {
-  background-color: #4CAF50; /* Green */
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-}
-
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
 
 p {
   margin-top: 100px;
   margin-bottom: 100px;
   margin-right: 150px;
   margin-left: 80px;
+  font-family: 'PT Sans', sans-serif;
+  color:  blue;
+  text-align: center;
 }
 
 h1,
