@@ -4,12 +4,15 @@ body {
   margin-left: 40px;
 }
 
-#nav1 {
-  background-color: orange;
-  display: flex;
-  align-items: center;
-  border-radius: 4px;
-  box-shadow: 0.5px 1px 0.5px grey;
+.nav1 {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 }
 
 #nav2 {
@@ -19,6 +22,13 @@ body {
   border-radius: 4px;
   box-shadow: 0.5px 1px 0.5px grey;
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
 h1,
 h2,
 {
