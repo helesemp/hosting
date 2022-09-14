@@ -19,28 +19,24 @@ body {
 
 
 p {
-  margin-top: 100px;
-  margin-bottom: 100px;
   margin-right: 150px;
   margin-left: 80px;
   font-family: sans-serif;
-  color: blue;
+  color: 33A8FF;
   text-align: center;
 }
 
 h1
 {
-  margin-top: 100px;
-  margin-bottom: 100px;
   margin-right: 150px;
   margin-left: 80px;
   font-family: sans-serif;
-  color:  red;
+  color: 33A8FF;
+  font-size: larger
   text-align: center;
 }
 
 h2 {
-  color: blue;
+  color: 33A8FF;
   font-size: larger;
-  text-shadow: 0.5px 1px 0.5px grey;
 }
