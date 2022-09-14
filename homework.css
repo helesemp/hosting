@@ -4,7 +4,7 @@ body {
   margin-left: 40px;
 }
 
-.nav1 {
+#button1 {
   background-color: #4CAF50; /* Green */
   border: none;
   color: white;
@@ -15,7 +15,7 @@ body {
   font-size: 16px;
 }
 
-#nav2 {
+#button2 {
   background-color: blue;
   display: flex;
   align-items: center;
@@ -27,6 +27,13 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+}
+
+p {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
 }
 
 h1,
