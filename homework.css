@@ -24,14 +24,14 @@ p {
   margin-right: 150px;
   margin-left: 80px;
   font-family: 'PT Sans', sans-serif;
-  color:  blue;
+  color: blue;
   text-align: center;
 }
 
 h1,
 h2,
 {
-  font-family: 'PT Sans', sans-serif;
+  font-family: sans-serif;
   color:  red;
   text-align: center;
 }
