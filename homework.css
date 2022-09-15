@@ -21,15 +21,19 @@ body {
 p {
   margin-right: 150px;
   margin-left: 80px;
-  font-family: sans-serif;
+  font-family: 'Trebuchet MS', sans-serif;
   color: 33A8FF;
 }
 
 h1
 {
+
   margin-right: 150px;
   margin-left: 80px;
-  font-family: sans-serif;
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  font-family: 'Trebuchet MS', sans-serif;
   color: 33A8FF;
   font-size: larger
 }
